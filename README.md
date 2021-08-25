@@ -13,6 +13,8 @@ Me llamo Mateo Uriel Pierre!
 - <i> Redux</i>
 - <i> Express </i>
 - <i> Sequelize </i>
+- <i> Figma </i>
+- <i> Illustrator </i>
 
 <h1>Aprendizaje 🌱</h1>
 En el bootcamp de Henry aprendi mucho sobre las tecnologias ya mencionadas, tanto del back-end como del front-end, todos los dias eran temas nuevos y actividades que nos permitia poner en practica todo lo dado, junto a eso todos los dias realizabamos un pair-programing con diversos estudiantes, los cuales nos ayudan y nos acercan a experiencas de trabajo real. Realizamos proyectos individuales del cual pude acentar los conocimientos dados, aprendi todo el flujo del back hasta el front y ni hablar a saber manejar ambos campos, haciendo la base de datos, las rutas y la api en el back y realizando los componentes, filtrados, busquedas, paginados en el front.
