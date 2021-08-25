@@ -1,4 +1,4 @@
-![alt text](https://cdn-images-1.medium.com/max/2600/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg)
+<img src = 'https://cdn-images-1.medium.com/max/2600/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg' alt = 'Hello World'/>
 <h1>Hola! 👋</h1>
 
 Me llamo Mateo Uriel Pierre!
@@ -16,3 +16,6 @@ Me llamo Mateo Uriel Pierre!
 
 <h1>Aprendizaje 🌱</h1>
 En el bootcamp de Henry aprendi mucho sobre las tecnologias ya mencionadas, tanto del back-end como del front-end, todos los dias eran temas nuevos y actividades que nos permitia poner en practica todo lo dado, junto a eso todos los dias realizabamos un pair-programing con diversos estudiantes, los cuales nos ayudan y nos acercan a experiencas de trabajo real. Realizamos proyectos individuales del cual pude acentar los conocimientos dados, aprendi todo el flujo del back hasta el front y ni hablar a saber manejar ambos campos, haciendo la base de datos, las rutas y la api en el back y realizando los componentes, filtrados, busquedas, paginados en el front.
+<h2>Contactate conmigo:</h2>
+<a href="https://linkedin.com/in/mateo-pierre/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mateo-pierre/" height="30" width="40" /></a>
+
